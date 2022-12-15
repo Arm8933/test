@@ -1,0 +1,11 @@
+git --version
+pwd
+cd C:/
+cd Users/hkhac/OneDrive/Desktop/TEST/
+ls
+touch aa.txt
+ls
+git --version
+git config --global user.email "hkhach1986@gmail.com"
+git config --global user.username "hkhach1986"
+history
